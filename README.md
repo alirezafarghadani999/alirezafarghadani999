@@ -31,5 +31,8 @@
   <a href="https://github.com/alirezafarghadani999/sval-saz-random">
   <img  src="https://img.shields.io/badge/Soval Saz-V2.9-success?style=for-the-badge&logo=Windows">
   </a>
+   <a href="https://github.com/alirezafarghadani999/Ui-in-Console">
+  <img  src="https://img.shields.io/badge/Ui-in-Console?style=for-the-badge">
+  </a>
  </div>
  
