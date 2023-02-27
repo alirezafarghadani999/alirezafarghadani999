@@ -34,5 +34,8 @@
    <a href="https://github.com/alirezafarghadani999/Ui-in-Console">
   <img  src="https://img.shields.io/badge/Ui in Console-C sharp-success?style=for-the-badge">
   </a>
+   <a href="https://github.com/alirezafarghadani999/Ui-in-Console">
+  <img  src="https://img.shields.io/badge/Team Task ( web ) sharp-success?style=for-the-badge">
+  </a>
  </div>
  
