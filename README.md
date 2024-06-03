@@ -12,11 +12,13 @@
 <br>
 <h2>Programming language I Know</h2>
 <div style="dispaly:inline">
-<img src="https://img.shields.io/badge/python 3.9-yellow?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-green?style=flat&logo=c#&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-green?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/java-orange?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/C/C++-blue?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-yellow?style=flat&logo=rust&logoColor=white">
  </div>
  
 <br>
