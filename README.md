@@ -5,7 +5,7 @@
 - 📨 my gmail : alirezaf999.iran@gmail.com
 - ▶️ my youtube : https://youtube.com/@alirezafarghadani9819?si=HovVvFUpbgDVsUfm
 
-<a href="https://t.me/alirezaff999">
+<a href="https://t.me/alirezaffa">
   <img align="left" alt="alireza" src="https://img.shields.io/badge/telegram-informational?style=flat&logo=telegram&logoColor=white&color=informational" />
 </a>
 
