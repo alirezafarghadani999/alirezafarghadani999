@@ -29,7 +29,7 @@
   
  </div>
   <br>
-<h2>Projects that I suggest to you</h2>
+<h2>Projects that I suggest you to see</h2>
 <div style="dispaly:inline">
   <a href="https://github.com/alirezafarghadani999/sval-saz-random">
   <img  src="https://img.shields.io/badge/Soval Saz-V2.9-success?style=for-the-badge&logo=Windows">
